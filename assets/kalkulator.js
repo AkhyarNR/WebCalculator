@@ -1,3 +1,5 @@
+console.log('asdfasfdasd');
+document.querySelector("#displayNumber").innerHTML = '<em>Tiga Anak Kucing</em>';
 const calculator = {
     displayNumber: '0',
     operator: null,
